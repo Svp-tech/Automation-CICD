@@ -1,0 +1,8 @@
+RahulShettyAcademy\PageObject\PlacingOrderPage.class
+RahulShettyAcademy\PageObject\ProductCatelogue.class
+RahulShettyAcademy\AbstractComponents\AbstractComponent.class
+RahulShettyAcademy\PageObject\OrderPage.class
+RahulShettyAcademy\PageObject\orderConfirmPage.class
+RahulShettyAcademy\Resources\ExtentReportNG.class
+RahulShettyAcademy\PageObject\CartPage.class
+RahulShettyAcademy\PageObject\LandingPage.class
