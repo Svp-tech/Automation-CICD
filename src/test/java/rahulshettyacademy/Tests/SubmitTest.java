@@ -21,7 +21,7 @@ import RahulShettyAcademy.PageObject.orderConfirmPage;
 import rahulshettyacademy.TestComponent.BaseTest;
 
 public class SubmitTest extends BaseTest {
-    String productName = "ZARA COAT 3";
+   String productName= "qwerty";    //Banarsi Saree,   ZARA COAT 3
 
     @Test(dataProvider="getData", groups= {"Purchase"})
     public void submitOrder(HashMap<String,String> input) throws IOException, InterruptedException {
