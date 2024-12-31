@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//it is testing purpose
 public class StandAloneTest {
 
 	public static void main(String[] args) 
